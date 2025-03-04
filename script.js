@@ -1,7 +1,7 @@
 let navbar = document.getElementById("navbar");
 function navbarScroll() {
     console.log("Scroll"); 
-    if (scrollY > 450) {
+    if (scrollY > 350) {
         navbar.style.backgroundColor = "rgb(3, 0, 66)";
     } else {
         navbar.style.backgroundColor = "transparent";

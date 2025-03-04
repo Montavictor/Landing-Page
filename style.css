@@ -137,6 +137,7 @@ nav .links:hover {
   color: var(--text-color);
   background: rgb(3, 0, 66);
   background: linear-gradient(90deg, rgba(3, 0, 66, 1) 0%, rgba(10, 10, 130, 1) 61%, rgba(0, 212, 255, 1) 100%);
+  box-shadow: 2px 0px 15px rgba(143, 255, 238, 0.6);
 
 }
 
